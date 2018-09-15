@@ -1,0 +1,7 @@
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\bin\Debug\501VSProject.exe.config
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\bin\Debug\501VSProject.exe
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\bin\Debug\501VSProject.pdb
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\obj\Debug\501VSProject.csproj.CoreCompileInputs.cache
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\obj\Debug\501VSProject.exe
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\obj\Debug\501VSProject.pdb
+C:\Users\RothM\OneDrive\Desktop\501HW2-Implementing-Class-Models\obj\Debug\501VSProject.csprojResolveAssemblyReference.cache

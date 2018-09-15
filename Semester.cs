@@ -1,20 +1,13 @@
+using System.Collections.Generic;
+
 class Semester
 {
-	private string name;
+	private string _name;
 	private List<Section> _sections;
 
-	public Semester(string name)
-	{
-		this.name = name;
-	}
+	public Semester(string name) => _name = name;
 	
-	public string GetName()
-	{
-		return name;
-	}
+	public string GetName() => _name;
 
-	public IncludeSection(Section newSection)
-	{
-		_sections.Add(newSection);
-	}
+	public void IncludeSection(Section newSection) => _sections.Add(newSection);
 }

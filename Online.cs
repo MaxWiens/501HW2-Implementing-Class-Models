@@ -8,4 +8,9 @@ class Online : Section
         _number = number;
         _cap = cap;
     }
+
+    public override string ToString()
+    {
+        return _course.Number + " section " + _number + " (" + _course.Title + ") " + _course + " is being taught by " + _faculty.GetName() + " in " + _semester.GetName();
+    }
 }

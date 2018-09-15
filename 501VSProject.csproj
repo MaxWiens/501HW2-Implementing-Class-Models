@@ -48,7 +48,6 @@
     <Compile Include="IFaculty.cs" />
     <Compile Include="OnCampus.cs" />
     <Compile Include="Online.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Section.cs" />
     <Compile Include="Semester.cs" />
