@@ -1,8 +1,6 @@
 interface IFaculty
 {
-	public string GetName()
-	{}
+	public string GetName();
 	
-	public AssignSection(Section assignSection)
-	{}
+	public AssignSection(Section assignedSection);
 }
