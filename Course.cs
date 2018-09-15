@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 class Course
 {
 	public string Title;

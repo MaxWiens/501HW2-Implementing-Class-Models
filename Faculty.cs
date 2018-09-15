@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 class Faculty : IFaculty
 {
 	private string name;
@@ -10,6 +12,6 @@ class Faculty : IFaculty
 	
 	public AssignSection(Section assignedSection)
 	{
-		_sections.Add(assignedSection)
+        _sections.Add(assignedSection);
 	}
 }

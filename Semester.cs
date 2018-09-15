@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 class Semester
 {
 	private string name;
