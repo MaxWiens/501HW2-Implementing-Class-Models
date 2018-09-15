@@ -1,5 +1,16 @@
+/// <summary>
+/// Online section
+/// </summary>
 class Online : Section
 {
+    /// <summary>
+    /// Oncampus constructor
+    /// </summary>
+    /// <param name="semester">section semester</param>
+    /// <param name="course">section course</param>
+    /// <param name="teacher">section facultyr</param>
+    /// <param name="number">section number</param>
+    /// <param name="cap">section cap</param>
 	public Online(Semester semester, Course course, Faculty teacher, string number, int cap)
 	{
         _semester = semester;
